@@ -30,8 +30,7 @@ function ProductList({ onHomeClick }) {
                 },
                 {
                     name: "Spider Plant",
-                    image: "https://images.unsplash.com/photo-1465101046530-7330b5cdedc3?auto=format&fit=crop&w=600&q=80
-                    ",
+                    image: "https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5939187_1280.jpg",
                     description: "Filters formaldehyde and xylene from the air.",
                     cost: "$12"
                 },
